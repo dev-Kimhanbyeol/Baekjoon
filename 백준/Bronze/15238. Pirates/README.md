@@ -36,3 +36,6 @@
 
  <p dir="ltr">Print a single line with the character that appears the most and the number of occurrences.</p>
 
+### 풀이
+왜 이렇게 오래걸렸냐;; 해석에 문제가 있다.
+최대 문자가 계속 갱신되는 시스템이였다.
